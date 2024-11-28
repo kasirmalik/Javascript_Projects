@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#grid{
+  display: flex;
+  width: 400px;
+  height: 300px;
+  flex-wrap: wrap;
+  gap: 8px;
+ 
+}
